@@ -1,5 +1,5 @@
-### Hello world, i'm Caio👋
-## Aluno da Driven Education na formação para Software Enginner!!
+## Caio,
+### Aluno da Driven Education na formação para Software Enginner!!
 
 <!--
 **CaioCZS/CaioCZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
