@@ -1,5 +1,6 @@
-## Caio,
-### Desenvolvedor Web Full-Stack | Desenvolvedor de Software | Front-End & Back-End | Javascript, Typescript, React,Node.js | SQL
+# Oi, eu sou o Caio
+
+## Tecnologias que sei programar
 
 <!--
 **CaioCZS/CaioCZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
