@@ -26,10 +26,11 @@
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<div >
+
 <h2>⭐ Status</h2>
 <img alt="Caio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioczs&show_icons=true" />
-</div>
+<img alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=caioczs&show_icons=true" />
+
 <!--
 **CaioCZS/CaioCZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
